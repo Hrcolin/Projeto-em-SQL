@@ -1,2 +1,1 @@
-# Projeto-em-SQL
-Primeiro projeto em SQL
+# Projeto-em-Python
